@@ -908,6 +908,13 @@ Credit to the following users for contributing to Web-Check
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/jinnabaalu">
+            <img src="https://avatars.githubusercontent.com/u/11784253?v=4" width="80;" alt="jinnabaalu"/>
+            <br />
+            <sub><b>Jinna Baalu</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/treatmesubj">
             <img src="https://avatars.githubusercontent.com/u/39680353?v=4" width="80;" alt="treatmesubj"/>
             <br />
@@ -920,15 +927,15 @@ Credit to the following users for contributing to Web-Check
             <br />
             <sub><b>Marco Ochse</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/murrple-1">
             <img src="https://avatars.githubusercontent.com/u/5559656?v=4" width="80;" alt="murrple-1"/>
             <br />
             <sub><b>Murray Christopherson</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/UlisesGascon">
             <img src="https://avatars.githubusercontent.com/u/5110813?v=4" width="80;" alt="UlisesGascon"/>
